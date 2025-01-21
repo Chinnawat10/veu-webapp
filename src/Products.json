@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "ASUS VY229HF",
+    "detail": "MONITOR (จอมอนิเตอร์) ASUS VY229HF - 21.45 IPS FHD 100Hz (3Y)",
+    "coverimage": "src/img/ASUS VY229HF.jpg",
+    "price": "$470.99"
+  },
+  {
+    "id": 2,
+    "name": "ASUS TUF GAMING VG246H1A",
+    "detail": "MONITOR (จอมอนิเตอร์) ASUS TUF GAMING VG246H1A - 23.8 IPS FHD 100Hz",
+    "coverimage": "src/img/ASUS TUF GAMING VG246H1A.jpg",
+    "price": "$850.99"
+  },
+  {
+    "id": 3,
+    "name": "ASUS ROG STRIX XG27ACS-W - 27 IPS 2K 180Hz",
+    "detail": "MONITOR (จอมอนิเตอร์) ASUS ROG STRIX XG27ACS-W - 27 IPS 2K 180Hz (3Y)",
+    "coverimage": "src/img/ASUS ROG STRIX XG27ACS-W - 27 IPS 2K 180Hz.jpg",
+    "price": "$500.99"
+  },
+  {
+    "id": 4,
+    "name": "NOTEBOOK MSI THIN 15 B13UCX-1610TH",
+    "detail": "NOTEBOOK MSI THIN 15 B13UCX-1610TH (COSMOS GRAY)",
+    "coverimage": "src/img/NOTEBOOK MSI THIN 15 B13UCX-1610TH.jpg",
+    "price": "$400.99"
+  },
+  {
+    "id": 5,
+    "name": "NOTEBOOK ASUS TUF GAMING A15 FA506NF-HN005W",
+    "detail": "NOTEBOOK ASUS TUF GAMING A15 FA506NF-HN005W (GRAPHITE BLACK) (2Y)",
+    "coverimage": "src/img/NOTEBOOK ASUS TUF GAMING A15 FA506NF-HN005W.jpg",
+    "price": "$6000.99"
+  },
+  {
+    "id": 6,
+    "name": "NOTEBOOK ASUS VIVOBOOK 15 X1502ZA-EJ506W",
+    "detail": "NOTEBOOK ASUS VIVOBOOK 15 X1502ZA-EJ506W (QUIET BLUE)",
+    "coverimage": "src/img/NOTEBOOK ASUS VIVOBOOK 15 X1502ZA-EJ506W.jpg",
+    "price": "$480.25"
+  },
+   {
+  "id": 7,
+  "name": "NOTEBOOK ACER ASPIRE GO AG15-31P-30EJ",
+  "detail": "NOTEBOOK ACER ASPIRE GO AG15-31P-30EJ (PURE SILVER) (2Y)",
+  "coverimage": "src/img/NOTEBOOK ACER ASPIRE GO AG15-31P-30EJ.jpg",
+  "price": "$470.25"
+   },
+{
+  "id": 8,
+  "name": "NOTEBOOK GIGABYTE G6 MF-H2TH853SH i7-13620H",
+  "detail": "NOTEBOOK GIGABYTE G6 MF-H2TH853SH i7-13620H",
+  "coverimage": "src/img/NOTEBOOK GIGABYTE G6 MF-H2TH853SH i7-13620H.jpg",
+  "price": "$450.25"
+},
+{
+  "id": 9,
+  "name": "NOTEBOOK  DELL VOSTRO 3420-W568352702PNTH",
+  "detail": "NOTEBOOK  DELL VOSTRO 3420-W568352702PNTH (TITAN GREY)",
+  "coverimage": "src/img/NOTEBOOK  DELL VOSTRO 3420-W568352702PNTH.jpg",
+  "price": "$400.25"
+},
+{
+  "id": 10,
+  "name": "NOTEBOOK ACER NITRO V 15 ANV15-41-R1R0",
+  "detail": "NOTEBOOK ACER NITRO V 15 ANV15-41-R1R0 (OBSIDIAN BLACK) (3Y)",
+  "coverimage": "src/img/NOTEBOOK ACER NITRO V 15 ANV15-41-R1R0.jpg",
+  "price": "$400.99"
+}
+]
