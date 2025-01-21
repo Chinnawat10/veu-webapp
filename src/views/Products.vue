@@ -1,5 +1,5 @@
 <script setup>
-import MyCard from "../views/MyCard.vue";
+import MyCard from "../views/Mycard.vue";
 //import items from '../Products.json';
 </script>
 

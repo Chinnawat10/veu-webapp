@@ -1,6 +1,6 @@
 <template>
   <div class="card">
-      <img :src="coverimage" :alt="name" style="width:100%" />
+      <img :src="image" :alt="name" style="width:100%" />
       <div className="contaier">
         <h1>{{title}}</h1>
         <p class="price">{{price}}</p>
